@@ -6,7 +6,7 @@
     ============================== */
 
     const CONFIG = Object.freeze({
-        pixelId: '1427710952838874',
+        pixelId: '692826133206286',
         telegramUrl: 'https://t.me/+lMGH61uKEVEzYzI9',
 
         // Visitor qualification
